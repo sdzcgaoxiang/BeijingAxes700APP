@@ -1,0 +1,692 @@
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Cinemachine.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\clipper_library.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-hlapi.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-hlapi.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-weaver.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\mscorlib.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\netstandard.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Purchasing.Common.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.AppContext.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Collections.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ComponentModel.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Console.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Core.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Data.Common.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Data.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Drawing.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Globalization.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.Compression.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.Pipes.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Linq.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Http.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Ping.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Requests.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Security.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.Sockets.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Numerics.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ObjectModel.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Reflection.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Resources.Reader.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Resources.Writer.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Claims.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.Principal.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Security.SecureString.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Text.Encoding.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.Thread.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Threading.Timer.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Transactions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.ValueTuple.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Web.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Windows.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.Linq.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.XPath.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Subsystem.Registration.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Timeline.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.XR.Management.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.XR.Management.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.UI.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.XR.LegacyInputHelpers.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Advertisements.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Monetization.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.Codeless.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.SecurityCore.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.SecurityStub.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.Stores.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UI.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\VuforiaEditorScripts.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\VuforiaScripts.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Cecil.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\ExCSS.Unity.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleCore.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.WinRTCore.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleStub.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleMacosStub.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.WinRTStub.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.CecilTools.dll
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.XR.Management.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Cinemachine.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Monetization.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Subsystem.Registration.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-hlapi.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.Stores.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Purchasing.Common.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\VuforiaScripts.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.Purchasing.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Timeline.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.Codeless.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.SecurityCore.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\VuforiaEditorScripts.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-weaver.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.XR.LegacyInputHelpers.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.XR.Management.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.SpatialTracking.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.SpatialTracking.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Advertisements.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.XR.LegacyInputHelpers.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.SecurityStub.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\com.unity.multiplayer-hlapi.Runtime.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleCore.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.WinRTCore.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleStub.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.AppleMacosStub.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.Purchasing.WinRTStub.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\FInalProject\Project\Beijing Axes-700\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\FInalProject\Project\Beijing Axes-700\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+D:\FInalProject\Project\Beijing Axes-700\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+D:\FInalProject\Project\Beijing Axes-700\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+D:\FInalProject\Project\Beijing Axes-700\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\FInalProject\Project\Beijing Axes-700\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Cinemachine.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\clipper_library.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-hlapi.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-hlapi.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-weaver.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\mscorlib.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\netstandard.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Purchasing.Common.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.AppContext.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Collections.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ComponentModel.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Console.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Core.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Data.Common.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Data.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Drawing.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Globalization.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.Compression.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.Pipes.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Linq.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Http.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Ping.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Requests.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Security.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.Sockets.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Numerics.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ObjectModel.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Reflection.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Resources.Reader.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Resources.Writer.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Claims.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.Principal.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Security.SecureString.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Text.Encoding.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.Thread.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Threading.Timer.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Transactions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.ValueTuple.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Web.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Windows.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.Linq.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.XPath.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.2D.Tilemap.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Postprocessing.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Subsystem.Registration.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Timeline.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.XR.Management.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.XR.Management.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.Purchasing.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.UI.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.XR.LegacyInputHelpers.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Advertisements.Editor.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Monetization.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.Codeless.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.SecurityCore.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.SecurityStub.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.Stores.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UI.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.XR.LegacyInputHelpers.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\VuforiaEditorScripts.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\VuforiaScripts.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Cecil.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\ExCSS.Unity.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleCore.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.WinRTCore.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleStub.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleMacosStub.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.WinRTStub.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.CecilTools.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.XR.Management.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Cinemachine.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Monetization.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Subsystem.Registration.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-hlapi.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.Stores.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Purchasing.Common.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Advertisements.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\VuforiaScripts.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.Purchasing.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Timeline.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.Codeless.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.SecurityCore.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\VuforiaEditorScripts.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Postprocessing.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-weaver.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.XR.LegacyInputHelpers.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.XR.Management.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Postprocessing.Runtime.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.2D.Tilemap.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.SpatialTracking.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.SpatialTracking.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Advertisements.Editor.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.XR.LegacyInputHelpers.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.SecurityStub.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\com.unity.multiplayer-hlapi.Runtime.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleCore.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.WinRTCore.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleStub.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.AppleMacosStub.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.Purchasing.WinRTStub.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\FInalProject\Project\Beijing Axes-700 - app\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+D:\FInalProject\Project\Beijing Axes-700 - app\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+D:\FInalProject\Project\Beijing Axes-700 - app\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+D:\FInalProject\Project\Beijing Axes-700 - app\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\FInalProject\Project\Beijing Axes-700 - app\obj\Debug\Assembly-CSharp-firstpass.pdb
